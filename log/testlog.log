@@ -1,0 +1,113 @@
+2021-03-23 08:13:32,277 - logger_File -INFO - Scenario verify all items are present in Desktops tab Started 
+2021-03-23 08:13:55,075 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-23 08:14:02,463 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-23 08:14:10,781 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 08:41:25,441 - logger_File -INFO - Scenario verify all items are present in Desktops tab Started 
+2021-03-28 08:41:37,970 - logger_File -INFO - verify all items are present in Desktops tab   passed
+2021-03-28 08:41:37,975 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-28 08:41:50,988 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-28 08:41:50,992 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-28 08:42:08,783 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-28 08:42:08,788 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 08:42:21,601 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-28 08:56:12,191 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 08:56:26,082 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-28 08:58:29,065 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 08:58:47,024 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-28 08:59:30,178 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 08:59:48,201 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-28 09:00:32,693 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 09:00:47,726 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-28 09:21:57,985 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 09:22:11,882 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-31 04:51:37,037 - logger_File -INFO - Scenario verify all items are present in Desktops tab Started 
+2021-03-31 04:51:43,375 - logger_File -INFO - Retail page is opened
+2021-03-31 04:51:46,106 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 04:51:48,622 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 04:51:50,581 - logger_File -INFO - verify all items are present in Desktops tab   failed
+2021-03-31 04:51:50,585 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-31 04:51:54,487 - logger_File -INFO - Retail page is opened
+2021-03-31 04:51:57,171 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 04:52:00,549 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 04:52:01,700 - logger_File -INFO - User click ADD TO CART option on 'HP LP3065' item
+2021-03-31 04:52:04,840 - logger_File -INFO - User select quantity
+2021-03-31 04:52:05,944 - logger_File -INFO - User click add to Cart button
+2021-03-31 04:52:06,443 - logger_File -INFO - User should sees the message 'Success: you have added HP LP
+2021-03-31 04:52:11,617 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-31 04:52:11,623 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-31 04:52:15,662 - logger_File -INFO - Retail page is opened
+2021-03-31 04:52:18,368 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 04:52:21,807 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 04:52:22,923 - logger_File -INFO - ser click ADD TO CART option on 'Canon EOS
+2021-03-31 04:52:25,145 - logger_File -INFO - User select color from dropdown 'Red'
+2021-03-31 04:52:25,772 - logger_File -INFO - User select quantity
+2021-03-31 04:52:26,850 - logger_File -INFO - User click add to Cart Canon button
+2021-03-31 04:52:27,462 - logger_File -INFO - User sees a message 'Succes: You have added Canon EOS
+2021-03-31 04:52:33,668 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-31 04:52:33,672 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-31 04:52:37,756 - logger_File -INFO - Retail page is opened
+2021-03-31 04:52:40,360 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 04:52:43,827 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 04:52:46,378 - logger_File -INFO - User click on Canon EOS 5D item
+2021-03-31 04:52:46,564 - logger_File -INFO - User click on write a review link
+2021-03-31 04:52:48,064 - logger_File -INFO - user fills the review information with below information
+2021-03-31 04:52:49,624 - logger_File -INFO - User click on Continue Button
+2021-03-31 04:52:52,184 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-31 05:19:49,311 - logger_File -INFO - Scenario verify all items are present in Desktops tab Started 
+2021-03-31 05:19:55,835 - logger_File -INFO - Retail page is opened
+2021-03-31 05:19:58,632 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 05:20:01,440 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 05:20:02,524 - logger_File -INFO - User sees all items are present in Desktop page
+2021-03-31 05:20:05,178 - logger_File -INFO - verify all items are present in Desktops tab   passed
+2021-03-31 05:20:05,185 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-31 05:20:09,839 - logger_File -INFO - Retail page is opened
+2021-03-31 05:20:12,748 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 05:20:15,531 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 05:20:16,673 - logger_File -INFO - User click ADD TO CART option on 'HP LP3065' item
+2021-03-31 05:20:18,682 - logger_File -INFO - User select quantity
+2021-03-31 05:20:19,817 - logger_File -INFO - User click add to Cart button
+2021-03-31 05:20:20,332 - logger_File -INFO - User should sees the message 'Success: you have added HP LP
+2021-03-31 05:20:21,760 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-31 05:20:21,763 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-31 05:20:25,579 - logger_File -INFO - Retail page is opened
+2021-03-31 05:20:28,224 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 05:20:31,955 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 05:20:33,062 - logger_File -INFO - ser click ADD TO CART option on 'Canon EOS
+2021-03-31 05:20:35,350 - logger_File -INFO - User select color from dropdown 'Red'
+2021-03-31 05:20:36,050 - logger_File -INFO - User select quantity
+2021-03-31 05:20:37,155 - logger_File -INFO - User click add to Cart Canon button
+2021-03-31 05:20:37,742 - logger_File -INFO - User sees a message 'Succes: You have added Canon EOS
+2021-03-31 05:20:43,999 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-31 05:20:44,004 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-31 05:20:47,800 - logger_File -INFO - Retail page is opened
+2021-03-31 05:20:50,457 - logger_File -INFO - User clicks on the descktop tab
+2021-03-31 05:20:54,132 - logger_File -INFO - User clicks on show all descktop
+2021-03-31 05:20:56,853 - logger_File -INFO - User click on Canon EOS 5D item
+2021-03-31 05:20:57,044 - logger_File -INFO - User click on write a review link
+2021-03-31 05:20:58,493 - logger_File -INFO - user fills the review information with below information
+2021-03-31 05:21:00,056 - logger_File -INFO - User click on Continue Button
+2021-03-31 05:21:02,448 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-04-12 00:12:29,015 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-04-12 00:12:38,155 - logger_File -INFO - Retail page is opened
+2021-04-12 00:12:40,393 - logger_File -INFO - User click on My Account
+2021-04-12 00:12:41,060 - logger_File -INFO - User click on Login
+2021-04-12 00:12:41,437 - logger_File -INFO - User enter email address
+2021-04-12 00:12:41,662 - logger_File -INFO - User enter password
+2021-04-12 00:12:42,748 - logger_File -INFO - User click on Login button
+2021-04-12 00:12:44,754 - logger_File -INFO - Use  verified the page title
+2021-04-12 00:12:54,197 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-12 00:12:59,520 - logger_File -INFO - Retail page is opened
+2021-04-12 00:13:02,469 - logger_File -INFO - User click on My Account
+2021-04-12 00:13:03,161 - logger_File -INFO - User click on Login
+2021-04-12 00:13:03,539 - logger_File -INFO - User enter email address
+2021-04-12 00:13:03,813 - logger_File -INFO - User enter password
+2021-04-12 00:13:05,235 - logger_File -INFO - User click on Login button
+2021-04-12 00:13:07,239 - logger_File -INFO - Use  verified the page title
+2021-04-12 00:13:07,280 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-12 00:13:12,842 - logger_File -INFO - Retail page is opened
+2021-04-12 00:13:14,878 - logger_File -INFO - User click on My Account
+2021-04-12 00:13:15,355 - logger_File -INFO - User click on Login
+2021-04-12 00:13:15,646 - logger_File -INFO - User enter email address
+2021-04-12 00:13:15,902 - logger_File -INFO - User enter password
+2021-04-12 00:13:17,044 - logger_File -INFO - User click on Login button
+2021-04-12 00:13:19,051 - logger_File -INFO - Use  verified the page title
